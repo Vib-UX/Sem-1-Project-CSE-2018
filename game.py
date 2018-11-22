@@ -1,3 +1,4 @@
+#Python Game : Treasure Hunt Code
 import pygame
 import time
 
