@@ -1,4 +1,4 @@
-# Sem-1-Project-CSE-2018
+# Role Playing Game 
 
 #Treasure Game
 A simple game built on Python for fun
