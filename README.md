@@ -7,3 +7,5 @@ The project uses Pygame module which is a Python module for building exciting ga
 
 The game consists of 10 levels with increasing level of difficulty.Once sucessfully completed,you will recieve a 
 successful completion message and the game will exit.
+
+Updated
